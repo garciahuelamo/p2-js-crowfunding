@@ -5,9 +5,14 @@ const form = document.querySelector(".responseForm");
 const resultDiv = document.getElementById("result");
 const progressBar = document.getElementById("progressBar");
 const submitButton = document.querySelector("button[type='submit']");
+const goal = 600000;
+const slides = document.querySelectorAll(".carousel-container img");
+const totalSlides = slides.length;
+
+let currentSlide = 0;
 
 document.addEventListener("DOMContentLoaded", function() {
-    const goal = 600000;
+
     let totalDonations = localStorage.getItem("totalDonations") ? parseFloat(localStorage.getItem("totalDonations")) : 0;
 
     try {
@@ -75,3 +80,23 @@ document.addEventListener("DOMContentLoaded", function() {
 
     }
 })
+
+function moveSlide(direction) {
+    currentSlide += direction;
+
+    if (currentSlide >= totalSlides) {
+        currentSlide = 0; 
+    }
+
+    if (currentSlide < 0) {
+        currentSlide = totalSlides - 1; 
+    }
+
+    updateCarousel();
+}
+
+function updateCarousel() {
+    const carouselContainer = document.querySelector(".carousel-container");
+    const offset = -currentSlide * 100;
+    carouselContainer.style.transform = `translateX(${offset}%)`;
+}
