@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="layout-grid.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0243155"
+     inkscape:cx="560.86236"
+     inkscape:cy="396.85039"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#010402;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+    <rect
+       x="509.60862"
+       y="33.192899"
+       width="64.433277"
+       height="31.240376"
+       id="rect5" />
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient1"
+       x1="2.428785"
+       y1="93.721123"
+       x2="1118.3196"
+       y2="93.721123"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch5"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       x1="509.10938"
+       y1="44.901179"
+       x2="569.5572"
+       y2="44.901179" />
+    <rect
+       x="509.60861"
+       y="33.192898"
+       width="64.433273"
+       height="31.240376"
+       id="rect5-7" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch5"
+       id="linearGradient10"
+       gradientUnits="userSpaceOnUse"
+       x1="509.10938"
+       y1="44.90118"
+       x2="569.55719"
+       y2="44.90118" />
+    <rect
+       x="509.60861"
+       y="33.192898"
+       width="64.433273"
+       height="31.240376"
+       id="rect5-7-6" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch5"
+       id="linearGradient17"
+       gradientUnits="userSpaceOnUse"
+       x1="509.10938"
+       y1="44.90118"
+       x2="569.55719"
+       y2="44.90118" />
+    <rect
+       x="509.60861"
+       y="33.192898"
+       width="91.768602"
+       height="27.335329"
+       id="rect5-1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch5"
+       id="linearGradient20"
+       gradientUnits="userSpaceOnUse"
+       x1="509.10938"
+       y1="44.90118"
+       x2="569.55719"
+       y2="44.90118" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient1);stroke:#010402;stroke-opacity:1"
+       id="rect1"
+       width="1114.8909"
+       height="179.63216"
+       x="2.9287851"
+       y="3.9050469" />
+    <rect
+       style="fill:#ffffff;stroke:#010402;stroke-opacity:1"
+       id="rect2"
+       width="296.78357"
+       height="468.60562"
+       x="3.9050469"
+       y="186.46599" />
+    <text
+       xml:space="preserve"
+       style="fill:#ffffff;stroke:#010402;stroke-opacity:1"
+       x="68.678177"
+       y="338.47177"
+       id="text4-6"><tspan
+         sodipodi:role="line"
+         id="tspan4-1"
+         x="68.678177"
+         y="338.47177">1 / 2 - grid  column</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5-2"
+       style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect5-7);fill:#000000;fill-opacity:1;stroke:url(#linearGradient10);stroke-opacity:1"
+       transform="translate(-395.79779,253.4015)"><tspan
+         x="509.60938"
+         y="52.656375"
+         id="tspan3">NAV</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#010402;stroke-opacity:1"
+       id="rect3"
+       width="813.22601"
+       height="468.60562"
+       x="303.6174"
+       y="186.46599" />
+    <text
+       xml:space="preserve"
+       style="fill:#ffffff;stroke:#010402;stroke-opacity:1"
+       x="622.51801"
+       y="335.68842"
+       id="text4-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-0"
+         x="622.51801"
+         y="335.68842">2 / 5 - grid  column</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5-2-7"
+       style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect5-7-6);fill:#000000;fill-opacity:1;stroke:url(#linearGradient17);stroke-opacity:1"
+       transform="translate(158.80731,253.35402)"><tspan
+         x="509.60938"
+         y="52.656375"
+         id="tspan6">IMG</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#010402;stroke-opacity:1"
+       id="rect4"
+       width="1110.9858"
+       height="130.81908"
+       x="4.8813086"
+       y="658.97668" />
+    <text
+       xml:space="preserve"
+       style="fill:#ffffff;stroke:#010402;stroke-opacity:1"
+       x="488.13821"
+       y="717.35608"
+       id="text4-8"><tspan
+         sodipodi:role="line"
+         id="tspan4-0"
+         x="488.13821"
+         y="717.35608">1 / 5 - grid  column</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000;fill-opacity:1;stroke:#010402;stroke-opacity:1"
+       x="488.13821"
+       y="733.95258"
+       id="text10-3"><tspan
+         sodipodi:role="line"
+         id="tspan10-1"
+         x="488.13821"
+         y="733.95258">3 / 4 - grid row</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5-5"
+       style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect5-1);fill:#000000;fill-opacity:1;stroke:url(#linearGradient20);stroke-opacity:1"
+       transform="translate(-0.109371,643.35403)"><tspan
+         x="509.60938"
+         y="52.656375"
+         id="tspan7">FOOTER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="fill:#ffffff;stroke:#010402;stroke-opacity:1"
+       x="513.51367"
+       y="82.982246"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="513.51367"
+         y="82.982246">1 / 5 - grid  column</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5"
+       style="font-size:21.3333px;white-space:pre;shape-inside:url(#rect5);fill:#000000;fill-opacity:1;stroke:url(#linearGradient6);stroke-opacity:1"
+       transform="translate(37.097947,0.97626175)"><tspan
+         x="509.60938"
+         y="52.656375"
+         id="tspan8">TITLE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000;fill-opacity:1;stroke:#010402;stroke-opacity:1"
+       x="513.51367"
+       y="99.578697"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="513.51367"
+         y="99.578697">1 / 2 - grid row</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000;fill-opacity:1;stroke:#010402;stroke-opacity:1"
+       x="68.338326"
+       y="340.71536"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="68.338326"
+         y="340.71536" /><tspan
+         sodipodi:role="line"
+         x="68.338326"
+         y="355.71536"
+         id="tspan14">2 / 3 - grid row</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000;fill-opacity:1;stroke:#010402;stroke-opacity:1"
+       x="622.85498"
+       y="337.78659"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         x="622.85498"
+         y="337.78659"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="622.85498"
+         y="352.78659">2 / 3 - grid row</tspan></text>
+  </g>
+</svg>
